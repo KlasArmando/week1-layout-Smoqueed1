@@ -1,0 +1,43 @@
+h1  {
+    margin: 2%;
+    color: darkred;
+    font-family: Impact;
+    font-size: 70px;
+}
+
+h2  {
+    margin: 4%;
+    color: darkred;
+    font-family: Impact;
+}
+
+body{
+    background-color: rgba(50, 50, 50);
+}
+
+p   {
+    font-family: "Trebuchet MS";
+    color: firebrick;
+}
+
+.index-background   {
+    background-image: url("../img/typer2.jpg");
+    background-size: cover;
+}
+
+.container  {
+    display: flex;
+}
+
+.col-lg-5    {
+    background-color: rgba(90, 50, 50, 0.7);
+    border: 5px solid black;
+}
+
+.col-lg-4   {
+    background-color: rgba(90, 50, 50, 0.7);
+}
+
+.navbar {
+    margin-bottom: 3%;
+}
